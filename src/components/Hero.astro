@@ -16,7 +16,7 @@ const { headline, intro, crumbs = [], home = false, location = home ? 'Homepage'
     <p class="hero-p">{intro}</p>
     <div class="hero-actions">
       <a class="btn btn-primary" href={business.phoneHref} aria-label={`Call ${business.name} at ${business.phoneDisplay}`}>{business.phoneDisplay}</a>
-      <a class="btn btn-ghost" href="#contact">Request a Call</a>
+      <a class="btn btn-ghost" href="#request-service">Request a Call</a>
     </div>
     {home && <p class="image-note">Illustrative image, not a photo of a local job.</p>}
   </div><RequestForm location={location} /></div>
