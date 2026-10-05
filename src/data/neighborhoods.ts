@@ -10,7 +10,7 @@ export const neighborhoods = [
       {
         "h": "What local context matters in Genesee Street Hill?",
         "ps": [
-          "The village historian identifies Greek Revival homes on Genesee Street Hill as part of the Fayetteville Historic District. A historic house may contain newer sewer work; establish pipe material and condition from inspection and records. See <a href=\"https://fayettevilleny.gov/257/Village-History\">Fayetteville village historian</a>.",
+          "The <a href=\"https://fayettevilleny.gov/257/Village-History\" target=\"_blank\" rel=\"noopener noreferrer\">village historian</a> identifies Greek Revival homes on Genesee Street Hill as part of the Fayetteville Historic District. A historic house may contain newer sewer work; establish pipe material and condition from inspection and records.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
         ]
       },
@@ -56,7 +56,7 @@ export const neighborhoods = [
       {
         "h": "What local context matters in Limestone Creek village area?",
         "ps": [
-          "The village historian documents early industries powered by Limestone Creek and the Ledyard Dyke after 1845. Creek proximity does not identify a blockage or show whether a property uses a public sewer connection. See <a href=\"https://fayettevilleny.gov/257/Village-History\">Fayetteville village historian</a>.",
+          "The <a href=\"https://fayettevilleny.gov/257/Village-History\" target=\"_blank\" rel=\"noopener noreferrer\">village historian</a> documents early industries powered by Limestone Creek and the Ledyard Dyke after 1845. Creek proximity does not identify a blockage or show whether a property uses a public sewer connection.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
         ]
       },
