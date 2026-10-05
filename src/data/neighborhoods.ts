@@ -1,4 +1,4 @@
-export const neighborhoods = [
+export const neighborhoods =  [
   {
     "slug": "genesee-street-hill",
     "name": "Genesee Street Hill",
@@ -12,6 +12,13 @@ export const neighborhoods = [
         "ps": [
           "The <a href=\"https://fayettevilleny.gov/257/Village-History\" target=\"_blank\" rel=\"noopener noreferrer\">village historian</a> identifies Greek Revival homes on Genesee Street Hill as part of the Fayetteville Historic District. A historic house may contain newer sewer work; establish pipe material and condition from inspection and records.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
+        ]
+      },
+      {
+        "h": "How do the services fit homes in Genesee Street Hill?",
+        "ps": [
+          "Each service page answers one question. <a href=\"/services/severe-grease-and-sludge/\">Grease and sludge</a> is for kitchen lines that back up, <a href=\"/services/tree-root-intrusions/\">tree roots</a> is for lines where roots may have gotten in, and <a href=\"/services/mineral-and-scale-deposits/\">mineral buildup</a> is for deposits that narrow a pipe over time.",
+          "If none of those sounds like your drain, <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs and slow drains</a> is the broader page, and <a href=\"/guides/how-hydro-jetting-works/\">how hydro jetting works</a> explains what the work involves before you ask anyone to do it. The <a href=\"/neighborhood/limestone-creek/\">Limestone Creek village area</a> page covers another part of Fayetteville."
         ]
       },
       {
@@ -58,6 +65,13 @@ export const neighborhoods = [
         "ps": [
           "The <a href=\"https://fayettevilleny.gov/257/Village-History\" target=\"_blank\" rel=\"noopener noreferrer\">village historian</a> documents early industries powered by Limestone Creek and the Ledyard Dyke after 1845. Creek proximity does not identify a blockage or show whether a property uses a public sewer connection.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
+        ]
+      },
+      {
+        "h": "Which hydro jetting pages are worth reading before a request in Limestone Creek village area?",
+        "ps": [
+          "Read <a href=\"/guides/how-hydro-jetting-works/\">how hydro jetting works</a> first if the method is new to you. Then pick the page that matches what the drain is doing: <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs</a>, <a href=\"/services/severe-grease-and-sludge/\">grease and sludge</a> or <a href=\"/services/tree-root-intrusions/\">tree roots</a>.",
+          "<a href=\"/services/preventative-maintenance/\">Preventative hydro jetting</a> is the page for a line that is working now and that you want to keep clear. The <a href=\"/\">Fayetteville hydro jetting page</a> lists the rest for Fayetteville. The <a href=\"/neighborhood/genesee-street-hill/\">Genesee Street Hill</a> page covers another part of Fayetteville."
         ]
       },
       {
