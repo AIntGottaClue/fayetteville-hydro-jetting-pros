@@ -1,0 +1,2 @@
+
+.hero-in{display:grid;grid-template-columns:minmax(0,1fr) minmax(320px,440px);gap:44px;align-items:center}.hero .form-card{color:#102736;background:#fff;padding:26px;border-radius:18px}.hero .form-card h2{font-size:24px;color:#102736}.hero .form-card p,.hero .form-card label{color:#24404d}.contact-grid{grid-template-columns:1fr}.hero h1{font-size:clamp(36px,4.8vw,64px)}@media(max-width:800px){.hero-in{grid-template-columns:1fr;gap:26px}.hero{padding-bottom:70px}.hero .form-card{width:100%;box-sizing:border-box}.hero h1{font-size:40px}}
